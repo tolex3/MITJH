@@ -1,5 +1,7 @@
 # MITJH
 
+#### In order to copy/paste the git setup-code lines below, click the pen/edit button to the right ####
+
 To be able to collaborate on code/text etc, I suggest each of you create a fresh
 directory, (which is currently not under Git!) on you local machine.
 
